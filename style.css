@@ -1,0 +1,258 @@
+
+.banner{
+  position: absolute;
+  width: 1600px;
+  height: 809px;
+  left: 1600px;
+  top: 0px;
+}
+.header{
+  position: absolute;
+width: 1600px;
+height: 809px;
+left: 1600px;
+top: 0px;
+
+background: url(images/banner/banner1.png);
+
+}
+
+.h1{
+  position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+
+color: #151414;
+}
+.text{
+  position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+
+text-align: right;
+
+color: #444343;
+
+}
+.btn{
+  position: absolute;
+width: 160px;
+height: 64px;
+left: 1210px;
+top: 578px;
+color: #ffff;
+border: none;
+background-color: orangered;
+}
+/*header End*/
+
+/*section One Start*/
+.sec1{
+  position: absolute;
+ width: 1072px;
+height: 723.3px;
+left: 1850px;
+top: 939px;
+
+  
+}
+.h2{
+  position: absolute;
+width: 288px;
+height: 94px;
+left: 600px;
+top: 120px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+
+color: #151414;
+
+}
+.p1{
+  position: absolute;
+  width: 416px;
+  height: 104px;
+  left: 600px;
+  top: 250px;
+  
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+
+  
+  color: #444343;
+  
+  
+}
+.check{
+  position: absolute;
+width: 349px;
+height: 147px;
+left: 600px;
+top: 360px;
+
+}
+/*section One End*/
+
+/*section Two Start*/
+.myplan{
+  position: absolute;
+
+  height: 47px;
+  left: 2050px;
+  top: 1900px;
+  display: flex;
+text-align: center;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+color: #151414;
+}
+
+.plan{
+  position: absolute;
+  width: 1141px;
+  height: 299.96px;
+  left: 2300px;
+  top: 1700px;
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  line-break: auto;
+  font-size: 40px;
+
+}
+
+/*section Two End*/
+
+/*Section Three Start*/
+.sec3{
+  position: absolute;
+width: 1141px;
+height: 300px;
+left: 1900px;
+top: 2281.26px;
+
+background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+border-radius: 8px;
+background-image: url("images/gradient2.png"), url("images/watch.png");
+  background-blend-mode: lighten;
+ background-repeat: no-repeat;
+
+
+
+
+
+}
+.h-2{
+
+  
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  
+  color: #FFFFFF;
+  margin-left: 80px;
+ 
+  
+}
+.btn2{
+  color: orangered;
+  border: none;
+  background-color: #ffff;
+  width: 160px;
+height: 64px;
+position: absolute;
+margin: 80px;
+font-size:large;
+}
+/*Section Three End*/
+/*Footer Start*/
+footer{
+  position: absolute;
+width: 1600px;
+height: 577px;
+left: 1600px;
+top: 2652.26px;
+
+background: #151414;
+
+}
+.foot1{
+  position: absolute;
+width: 485px;
+height: 317px;
+left: 230px;
+top: 30%;
+color: #FFFFFF;
+background-repeat: no-repeat;
+
+
+
+
+}
+.foot2{
+  position: absolute;
+  width: 123px;
+  height: 29px;
+  left: 1046px;
+  top: 30%;
+  
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: #FFFFFF;
+}
+.btn3{
+  color: orangered;
+  border: none;
+  background-color: #ffff;
+  width: 160px;
+height: 64px;
+margin: 80px;
+font-size:large;
+border-radius: 10px;
+
+}
+.box{
+  position: absolute;
+width: 325px;
+height: 64px;
+background-color: #151414;
+border: white 1px solid;
+border-radius: 10px;
+font-size: 18px;
+}
+/*Footer End*/
